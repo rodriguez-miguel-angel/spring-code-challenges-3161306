@@ -1,4 +1,4 @@
-package com.cecilireid.springchallenges;
+package com.cecilireid.springchallenges.models;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;

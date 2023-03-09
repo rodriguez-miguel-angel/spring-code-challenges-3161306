@@ -1,4 +1,4 @@
-package com.cecilireid.springchallenges;
+package com.cecilireid.springchallenges.models;
 
 public enum Status {
     NOT_STARTED,

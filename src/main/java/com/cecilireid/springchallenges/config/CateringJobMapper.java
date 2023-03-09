@@ -1,5 +1,7 @@
-package com.cecilireid.springchallenges;
+package com.cecilireid.springchallenges.config;
 
+import com.cecilireid.springchallenges.models.CateringJob;
+import com.cecilireid.springchallenges.models.Status;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
 import org.springframework.batch.item.file.transform.FieldSet;
 import org.springframework.validation.BindException;
